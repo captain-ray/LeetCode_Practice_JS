@@ -7,4 +7,5 @@
 - [x] 5 Longest Palindromic Substring
   - Dynamic Programming
 - [x] 6 ZigZag Conversion
+- [x] 8 String to Integer (atoi)
 
