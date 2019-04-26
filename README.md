@@ -16,4 +16,6 @@
 - [x] 15 3Sum
 - [x] 16 3Sum Closest
 - [x] 17 Letter Combinations of a Phone Number
-
+- [x] 18 4Sum
+  - Sort
+  - Two Pointers
