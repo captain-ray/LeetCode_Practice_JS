@@ -19,3 +19,4 @@
 - [x] 18 4Sum
   - Sort
   - Two Pointers
+- [x] 19 Remove Nth Node From End of List
