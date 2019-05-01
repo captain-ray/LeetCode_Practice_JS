@@ -3,23 +3,47 @@
 - [x] 1 Two Sum
 
   - hashtable (map)
+  
 - [x] 2 Add Two Numbers
+
 - [x] 3 Longest Substring Without Repeating Characters
   - Sliding Window s[i.j)
   - Set() , Map()
+  
 - [x] 5 Longest Palindromic Substring
+  
   - Dynamic Programming
+  
 - [x] 6 ZigZag Conversion
+
 - [x] 8 String to Integer (atoi)
+
 - [x] 11 Container With Most Water
+
 - [x] 12 Integer to Roman
+
 - [x] 15 3Sum
+
 - [x] 16 3Sum Closest
+
 - [x] 17 Letter Combinations of a Phone Number
+
 - [x] 18 4Sum
   - Sort
   - Two Pointers
+  
 - [x] 19 Remove Nth Node From End of List
-- [x] 22 Generate Parentheses 
-  - backtracking
 
+- [x] 22 Generate Parentheses
+  
+  - Backtracking
+  
+- [x] 24 Swap Nodes in Pairs
+  
+  - Linked List
+  
+- [ ] 
+  
+  
+  
+  
