@@ -20,3 +20,6 @@
   - Sort
   - Two Pointers
 - [x] 19 Remove Nth Node From End of List
+- [x] 22 Generate Parentheses 
+  - backtracking
+
