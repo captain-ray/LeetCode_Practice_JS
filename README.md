@@ -42,6 +42,10 @@
   
   - Linked List
   
+- [x] 29 Divide Two Integers
+  
+  - Math: ''<<'' (left shift: the same as multiplay without using multiplication)
+  
 - [ ] 
   
   
