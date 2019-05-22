@@ -56,7 +56,9 @@
   
   - Binary Search
   
-- [ ] 
+- [x] 36 Valid Sudoku
+  
+  - Hash Table(map)
   
 - [ ] 
   
