@@ -50,6 +50,12 @@
   
 - [x] 33 Search in Rotated Sorted Array
   
+  - Binary Search
+  
+- [x] 34 Find First and Last Position of Element in Sorted Array
+  
+  - Binary Search
+  
 - [ ] 
   
   
