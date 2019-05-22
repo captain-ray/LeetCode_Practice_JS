@@ -68,6 +68,10 @@
   
   - Backtracking
   
+- [x] 43 Multiply Strings
+  
+  - Math, String
+  
 - [ ] 
   
   
