@@ -54,11 +54,15 @@
   
 - [x] 34 Find First and Last Position of Element in Sorted Array
   
-  - Binary Search
+  - Binary Search
   
 - [x] 36 Valid Sudoku
   
   - Hash Table(map)
+  
+- [x] 39 Combination Sum
+  
+  - Backtracking
   
 - [ ] 
   
