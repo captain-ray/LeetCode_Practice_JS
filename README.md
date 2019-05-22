@@ -46,6 +46,8 @@
   
   - Math: ''<<'' (left shift: the same as multiplay without using multiplication)
   
+- [x] 31 Next Permutation
+  
 - [ ] 
   
   
