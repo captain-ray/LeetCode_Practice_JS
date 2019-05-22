@@ -72,6 +72,10 @@
   
   - Math, String
   
+- [x] 46 Permutations
+  
+  - Backtracking
+  
 - [ ] 
   
   

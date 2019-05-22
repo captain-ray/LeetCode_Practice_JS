@@ -16,6 +16,7 @@ function backTrack(candidates,target,path,index,res){
     if(target<0) return;
 
     if(target==0){
+        //push the copy of the array
          res.push(path.slice(0));
     }
 
