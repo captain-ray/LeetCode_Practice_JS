@@ -76,6 +76,10 @@
   
   - Backtracking
   
+- [x] 47 Permutations II
+  
+  - Backtracking
+  
 - [ ] 
   
   
