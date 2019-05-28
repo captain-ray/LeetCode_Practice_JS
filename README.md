@@ -80,6 +80,10 @@
   
   - Backtracking
   
+- [x] 48 Rotate Image
+  
+- [ ] 
+  
 - [ ] 
   
   
