@@ -87,6 +87,10 @@
   - hash table
   - sorting string letters in alphabetic order
   
+- [x] 50 Pow(x,n)
+  
+  - recursion
+  
 - [ ] 
   
   
