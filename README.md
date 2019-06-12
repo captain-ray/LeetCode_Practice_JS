@@ -91,6 +91,10 @@
   
   - recursion
   
+- [x] 54 Spiral Matrix
+  
+  - direction array [[0,1],[1,0],[0,-1],[-1,0]]
+  
 - [ ] 
   
   
