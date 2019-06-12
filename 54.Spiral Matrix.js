@@ -10,6 +10,8 @@ var spiralOrder = function (matrix) {
     let columns = matrix[0].length, rows = matrix.length;
     let direction = [[0, 1], [1, 0], [0, -1], [-1, 0]];
     let i, j;
+
+    //initialized with false
     for (i = 0; i < rows; i++) {
         flag[i] = []
         for (j = 0; j < columns; j++) {
