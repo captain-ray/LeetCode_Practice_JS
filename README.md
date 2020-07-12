@@ -1,8 +1,13 @@
 ## LeetCode Problem
 
-- [x] 1 Two Sum
+[Medium Blog: 198 House Robber](https://medium.com/@ray644302280/leetcode-198-house-robber-4c9180fab1b1)
 
-  - hashtable (map)
+[Medium Blog: 78 Subsets](https://medium.com/@ray644302280/leetcode-78-subsets-8ee65c0b3e54)
+
+
+
+- [x] 1 Two Sum
+- hashtable (map)
 - [x] 2 Add Two Numbers
 - [x] 3 Longest Substring Without Repeating Characters
   - Sliding Window s[i.j)
