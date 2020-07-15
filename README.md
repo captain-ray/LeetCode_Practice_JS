@@ -76,3 +76,14 @@
 - [x] 78 Subsets
   - Backtracking
   - Binary Bitmasks
+- [x] 1512 Number of Good Pairs
+  - [x] HashTable
+  - [x] Math
+- [x] 1513 Number of Substrings With Only 1s
+  - sliding window
+- [x] 1514 Path with Maximum Probability
+  - Graph[Dijkstra]
+  - Max Heap
+- [x] 1515 Best Position for a Service Center
+  - Geometry
+
